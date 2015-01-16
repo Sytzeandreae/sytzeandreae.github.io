@@ -1,11 +1,12 @@
 ---
 layout: post
-title: My First Post!
+title: "My First Post!"
+published: true
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
-{% highlight python %}
+{% highlight python lineos %}
 # Testing this
 class Test:
     def init(self):
